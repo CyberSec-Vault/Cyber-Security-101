@@ -280,7 +280,7 @@ Client          Server
    | <--- SYN-ACK |
    | --- ACK ---> |
 Connection Established ✅
-
+```
 
 
 
