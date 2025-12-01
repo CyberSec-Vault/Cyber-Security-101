@@ -8,14 +8,14 @@ A mix of humor, grit, and methodical thinking, Orkla thrives where chaos meets c
 
 # First task 
 we should find the nearest location of Coca-Cola Freestyle machine to The Westin Peachtree Plaza in Atlanta, Georgia. Below the screenshot with full description:
-![Task-1](../screenshots/1.png)
+![Task-1](screenshots/1.png)
 
 1) On maps we will search for *The Westin Peachtree Plaza in Atlanta, Georgia*
 ![Localtion of The Westin Peachtree Plaza in Atlanta, Georgia](/screenshots/2.png)
 2) Next we will search for *Coca Cola's Freestyle machines in Atlanta, Georgia* and we will find the web-site which is related with Coca-cola's freestyle machines
-![Web-site](sreenshots/3.png)
+![Web-site](screenshots/3.png)
 there will be search bar and will search closest machine to The Westin Peachtree Plaza in Atlanta, Georgia
-![List of machines](screenshot/4.png)
+![List of machines](screenshots/4.png)
 when we will search for nearest to the location we are looking, we will see that *Firehouse Subs* is the closest one than others
-![Firehouse Subs](screenshot/5.png)
+![Firehouse Subs](screenshots/5.png)
 ![The result](screenshots/6.png)
